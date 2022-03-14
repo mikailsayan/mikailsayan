@@ -1,15 +1,7 @@
-## My name is Mikail.
+## Hey 👋, I'm Mikail!
 
-**I am 26 years old and happy to code.**
+<a href="https://www.instagram.com/mkailsyn/" target="_blank"> <img align="left" src="https://www.uni-giessen.de/fbz/svc/ahs/archiv-inhalte-vor-2021/bilder/instagramlogo/image" alt="Instagram" height="20px"/> </a> 
+<br> <br>
+Nice to meet you! I'm currently doing a bootcamp in frontend web development. I love exploring new tech stack 💻 and redesign websites.
 
-Question: *Arbeiten Sie lieber im Homeoffice oder einem „echten“ Büro?*
 
-Answer: I like to work in the office and have social interactions, but the home office is also a good variety.
-
-Obst, was ich gerne esse:
-
-- Banane
-- Apfel
-- Blaubeeren
-
-Instagram Account: [mkailsyn](https://www.instagram.com/mkailsyn/)
