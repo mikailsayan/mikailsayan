@@ -10,3 +10,9 @@ Nice to meet you! I am a junior frontend web developer 🌐 who lives in germany
 - 🔭 I’m working on creating webpages and learning how to progam.
 - 🎹 I love to produce music and create content in my freetime.
 - 💬 Ask me about anything tech related, I am happy to help.
+<br>
+
+## Skills
+
+- HTML, CSS and JavaScript
+- React
