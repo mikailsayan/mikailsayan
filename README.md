@@ -15,4 +15,7 @@ Nice to meet you! I am a junior frontend web developer 🌐 who lives in germany
 ## Skills
 
 - HTML, CSS and JavaScript
-- React
+- React Native and Next.js
+- Leading, architecting, and building React projects in both client and server-side environments
+- Estimating JavaScript and React work for a project and modularizing goals into clearly defined, executable tasks
+- Working with the team to connect engineering deliverables to client business objectives.
